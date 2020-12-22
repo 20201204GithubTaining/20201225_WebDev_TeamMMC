@@ -1,0 +1,53 @@
+ .login_body{
+   background-image: url(../img/805888_s.jpg);
+  
+
+ }
+ 
+ .rogo_box{
+   text-align: right;
+   width: 100%;
+  
+ }
+
+ .rogo{
+  width: 200px;
+  
+ }
+ 
+ .loginform{
+   margin: auto;
+   margin-top: 10vh;
+   padding-top: 80px;
+   padding-bottom: 100px;
+   width: 500px;
+   box-shadow: 0 10px 25px 0 rgba(255, 146, 3, 0.6);
+  /* white-space: pre-wrap; */
+  color:#555;
+  font-size: 18px;
+  text-align: center;
+   background-color: #ffffff;
+   border-radius: 10px;
+ }
+
+
+ .Please_login{
+   font-size: 24px;
+   color: rgb(247, 145, 11);;
+   padding-bottom: 10px;
+ }
+
+ .loginform_content{
+   margin-top: 10px;
+ }
+
+ .input{
+   border:3px solid rgba(255, 146, 3, 0.6)
+ }
+
+ .button{
+   margin: 20px;
+   box-shadow: 0 8px 8px 0 rgba(255, 146, 3, 0.3);
+   cursor : pointer;
+ }
+  
